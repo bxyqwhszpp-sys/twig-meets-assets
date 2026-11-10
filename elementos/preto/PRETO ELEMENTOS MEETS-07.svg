@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1264.71 338.49">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-2 {
+        clip-path: url(#clippath-3);
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath-4);
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath-7);
+      }
+
+      .cls-6 {
+        clip-path: url(#clippath-6);
+      }
+
+      .cls-7 {
+        clip-path: url(#clippath-8);
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath-5);
+      }
+
+      .cls-9 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect x="1021.13" y=".08" width="243.57" height="338.42"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect x="565.21" y=".08" width="146.77" height="338.42"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect x="889.98" y=".08" width="71.82" height="338.42"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect x="780.68" y=".08" width="71.82" height="338.42"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect x="306.03" y=".08" width="28.1" height="338.42"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect x="62.45" y=".08" width="28.1" height="338.42"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect y=".08" width="24.98" height="338.42"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect x="405.96" y=".08" width="71.82" height="338.42"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect x="156.14" y=".08" width="74.95" height="338.42"/>
+    </clipPath>
+  </defs>
+  <g>
+    <rect x="1021.13" y=".08" width="243.57" height="338.42"/>
+    <g class="cls-9">
+      <path d="M1263.76,338.38h-239.55V0h239.55v338.38Z"/>
+    </g>
+  </g>
+  <g>
+    <rect x="565.21" y=".08" width="146.77" height="338.42"/>
+    <g class="cls-1">
+      <path d="M711.95,338.38h-146.39V0h146.39v338.38Z"/>
+    </g>
+  </g>
+  <g>
+    <rect x="889.98" y=".08" width="71.82" height="338.42"/>
+    <g class="cls-4">
+      <path d="M960.44,338.38h-70.36V0h70.36v338.38Z"/>
+    </g>
+  </g>
+  <g>
+    <rect x="780.68" y=".08" width="71.82" height="338.42"/>
+    <g class="cls-2">
+      <path d="M851.7,338.38h-70.35V0h70.35v338.38Z"/>
+    </g>
+  </g>
+  <g>
+    <rect x="306.03" y=".08" width="28.1" height="338.42"/>
+    <g class="cls-3">
+      <path d="M331.41,338.38h-23.15V0h23.15v338.38Z"/>
+    </g>
+  </g>
+  <g>
+    <rect x="62.45" y=".08" width="28.1" height="338.42"/>
+    <g class="cls-8">
+      <path d="M88.51,338.38h-23.15V0h23.15v338.38Z"/>
+    </g>
+  </g>
+  <g>
+    <rect y=".08" width="24.98" height="338.42"/>
+    <g class="cls-6">
+      <path d="M23.93,338.38H.77V0h23.16v338.38Z"/>
+    </g>
+  </g>
+  <g>
+    <rect x="405.96" y=".08" width="71.82" height="338.42"/>
+    <g class="cls-5">
+      <path d="M477.11,338.38h-70.36V0h70.36v338.38Z"/>
+    </g>
+  </g>
+  <g>
+    <rect x="156.14" y=".08" width="74.95" height="338.42"/>
+    <g class="cls-7">
+      <path d="M228.64,338.38h-70.35V0h70.35v338.38Z"/>
+    </g>
+  </g>
+</svg>

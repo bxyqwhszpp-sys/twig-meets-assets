@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 768.35 933">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="384.18" cy="192.09" rx="384.18" ry="192.09"/>
+  <ellipse class="cls-1" cx="384.18" cy="521.38" rx="384.18" ry="137.21"/>
+  <ellipse class="cls-1" cx="384.18" cy="740.91" rx="384.18" ry="82.32"/>
+  <ellipse class="cls-1" cx="384.18" cy="878.12" rx="384.18" ry="54.88"/>
+</svg>
